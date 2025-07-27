@@ -36,3 +36,6 @@
 * [Sequence Diagram](./docs/sequence-order-foodtruck.png)
 * [Class Diagram](./docs/class-foodtruck.png)
 * [Activity Diagram](./docs/activity-order-process.png)
+
+
+นาย อินทัช เจริญผล ปวส. 2/24 เลขที่ 1
